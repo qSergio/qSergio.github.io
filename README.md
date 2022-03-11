@@ -1,39 +1,27 @@
-### Profile
+### PROFILE
 
-Test
+I have experience as a leader and contributor for diverse teams: Data Science, BI and Engineering with KPI management and customer driven objectives.
 
-You can use the [editor on GitHub](https://github.com/qSergio/qSergio.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Working on Data Science and Machine Learning since 2014 with Consulting, Research and/or Development teams on advanced analytics implementations for business projects using tools inspired by Artificial Intelligence.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### SKILLS
 
-### Markdown
+* Customer Driven - Technical Product Management Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Interdisciplinary Teamwork
 
-```markdown
-Syntax highlighted code block
+* Program Management
 
-# Header 1
-## Header 2
-### Header 3
+* Communication of insights and key results to stakeholders
 
-- Bulleted
-- List
+### TECHNICAL ENVIRONMENT
 
-1. Numbered
-2. List
+- Python and R for Machine Learning and Data Science
+- Spark (Pyspark)
+- Docker
+- AWS: S3, Redshift, EMR
+- Azure ML
+- QlikSense, DataStudio
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qSergio/qSergio.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![](hfd_fig1.png)
