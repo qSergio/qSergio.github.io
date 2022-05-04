@@ -1,6 +1,6 @@
 ### PROFILE
 
-I'm a Mathematician, currently working as AI and Data Science Product Manager on business projects using tools inspired by Artificial Intelligence and Applied Topology. Currently creating solutions using Topological Data Analysis.
+I'm a Mathematician, currently working as an AI and Data Science Product Manager on business projects using tools inspired by Artificial Intelligence and Applied Topology. Currently creating solutions using Topological Data Analysis and Machine Learning.
 
 I have experience as a leader and contributor for diverse teams: Data Science, BI and Engineering with KPI management and customer driven objectives.
 
