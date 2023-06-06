@@ -26,4 +26,4 @@ Working on Data Science and Machine Learning since 2014 with Consulting, Researc
 - QlikSense, DataStudio
 
 
-![Coffee and Geometry.](graph_mapper.png)
+![](graph_mapper.png)
